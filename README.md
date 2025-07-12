@@ -1,6 +1,6 @@
 # November Doors Replacement (P2:CE Addon)
 
-**Content source for the "November Doors Replacement" Portal 2: Community Edition workshop adoon.**
+**Content source for the "November Doors Replacement" Portal 2: Community Edition workshop addon.**
 
 Workshop page: https://steamcommunity.com/sharedfiles/filedetails/?id=3523648265
 
